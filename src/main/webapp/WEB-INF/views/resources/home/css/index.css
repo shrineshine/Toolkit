@@ -1,0 +1,54 @@
+.toolTitle{
+	padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.titleLogo{
+	display : inline-block;
+	aria-hidden : "true";
+	font-family : "Microsoft YaHei";
+	font-size : 35;
+}
+
+.toolContent{
+	padding-top: 30px;
+    padding-bottom: 48px;
+}
+
+.Linput{
+	cols : 30; 
+	rows : 30;
+}
+
+.newConstraint{
+	padding-top: 20px;
+}
+.newConstraint button{
+	margin-top: 10px;
+}
+
+.constraint{
+	padding-top:10px;
+}
+
+.clauseButton{
+	float:right;
+}
+.clause{
+	display: inline;
+}
+.regexResult{
+	padding-top:20px;
+}
+.checkbox-inline{
+	padding-top:10px;
+	margin-left:0px;
+}
+.introduction{
+	padding-top:10px;
+	margin-top:10px;
+	display:none;
+	width:100%;
+}
+
+
