@@ -67,7 +67,7 @@
             				</br>
             			</div>
             			<button type="button" class="btn btn-info" id="introButton" >使用说明</button>
-                    </div><!-- 巨幕 -->
+                    </div>
                     
                     <div class="toolContent">
                     	<div class="row">
