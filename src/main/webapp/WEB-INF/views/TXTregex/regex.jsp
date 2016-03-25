@@ -72,7 +72,7 @@
                     <div class="toolContent">
                     	<div class="row">
                     		<div class="col-sm-8">
-                    			<h2>输入栏:</h2></br>
+                    			<h2>输入栏:</h2></br> 
 			                    <div class="input-group">
 			  						<textarea class="form-control"  cols=175 rows=15 placeholder="input text" id="inputText"></textarea>
 								</div>
